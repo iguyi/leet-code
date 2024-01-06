@@ -4,7 +4,7 @@ import com.guyi.leetcode.common.ListNode;
 
 /**
  * 题目: 两数相加
- * 原题链接: https://leetcode.cn/problems/add-two-numbers/submissions/452739899/
+ * 原题链接: https://leetcode.cn/problems/add-two-numbers/
  * <p>
  * 题目描述:
  * 你两个 非空 的链表，表示两个非负的整数。它们每位数字都是按照 逆序 的方式存储的，并且每个节点只能存储 一位 数字。
