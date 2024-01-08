@@ -16,7 +16,7 @@ import java.util.List;
 public class LeetCode148 {
 
     /**
-     * 执行时间: 37.03%  内存占用: 75.29%
+     * 执行时间: 37.70%  内存占用: 77.17%
      */
     public ListNode sortList(ListNode head) {
         List<ListNode> list = new ArrayList<>();
