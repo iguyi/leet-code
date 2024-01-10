@@ -17,10 +17,6 @@ import java.util.Arrays;
 public class LeetCode283 {
 
     public static void main(String[] args) {
-//        int[] nums = new int[]{0,1,0,3,12};
-//        int[] nums = new int[]{0};
-//        int[] nums = new int[]{1};
-//        int[] nums = new int[]{0, 0, 0};
         int[] nums = new int[]{1, 1, 0, 3, 0, 12};
         moveZeroes1(nums);
         System.out.println(Arrays.toString(nums));
@@ -28,7 +24,7 @@ public class LeetCode283 {
 
     /**
      * 双指针解法
-     * 执行时间击败 100%
+     * 执行用时: 100.0%  内存占用: 58.39
      */
     public static void moveZeroes1(int[] nums) {
         int numsLength = nums.length;
